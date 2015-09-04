@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android_IDE\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="J:\domes\VideoRecords\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-308831e3d698d233c14508fa9916b7f92439a83c.jar" />
+    </item>
+    <item
+        jar="J:\domes\VideoRecords\app\libs\eventbus_2.24.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a7ceee69f0abcf7782791f09ff7177cc2417572d">
+        <dex dex="J:\domes\VideoRecords\app\build\intermediates\pre-dexed\debug\eventbus_2.24-09340514ad9962bb1739c3a56ab88b9b329c87a2.jar" />
+    </item>
+
+</items>
